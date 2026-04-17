@@ -1,3 +1,4 @@
+
 {
   "expo": {
     "name": "Ledger App",
@@ -7,6 +8,11 @@
     "platforms": ["android"],
     "android": {
       "package": "com.ledger.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "348d0396-7802-44cb-b327-eee72c86535a"
+      }
     }
   }
 }
