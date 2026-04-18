@@ -1,18 +1,11 @@
-
 {
-  "expo": {
-    "name": "Ledger App",
-    "slug": "ledger-app",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "platforms": ["android"],
-    "android": {
-      "package": "com.ledger.app"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "348d0396-7802-44cb-b327-eee72c86535a"
-      }
-    }
-  }
+  "name": "Ledger App",
+  "slug": "ledger-app",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "platforms": ["android"],
+  "android": {
+    "package": "com.ledger.app"
+  },
+  "sdkVersion": "50.0.0"
 }
